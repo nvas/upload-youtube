@@ -20,7 +20,7 @@ This repository contains a Python-based application that automates the uploading
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/youtube-video-uploader.git
+    git clone https://github.com/nvas/youtube-video-uploader.git
     cd youtube-video-uploader
     ```
 
